@@ -1,6 +1,5 @@
 # UserManagementSystem
-Role based user management system sing spring security
-
+Role based user management system using spring security
 Used Technologies
 Spring mvc
 hibernate
